@@ -13,6 +13,7 @@
 		930DAE3B263D6D2A000FD269 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 930DAE39263D6D2A000FD269 /* Main.storyboard */; };
 		930DAE3D263D6D2B000FD269 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 930DAE3C263D6D2B000FD269 /* Assets.xcassets */; };
 		930DAE40263D6D2B000FD269 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 930DAE3E263D6D2B000FD269 /* LaunchScreen.storyboard */; };
+		930DAE48263D6DC5000FD269 /* ScalingCarouseleFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930DAE47263D6DC5000FD269 /* ScalingCarouseleFlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		930DAE3C263D6D2B000FD269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		930DAE3F263D6D2B000FD269 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		930DAE41263D6D2B000FD269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		930DAE47263D6DC5000FD269 /* ScalingCarouseleFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScalingCarouseleFlowLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				930DAE33263D6D2A000FD269 /* AppDelegate.swift */,
 				930DAE35263D6D2A000FD269 /* SceneDelegate.swift */,
 				930DAE37263D6D2A000FD269 /* ViewController.swift */,
+				930DAE47263D6DC5000FD269 /* ScalingCarouseleFlowLayout.swift */,
 				930DAE39263D6D2A000FD269 /* Main.storyboard */,
 				930DAE3C263D6D2B000FD269 /* Assets.xcassets */,
 				930DAE3E263D6D2B000FD269 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				930DAE38263D6D2A000FD269 /* ViewController.swift in Sources */,
 				930DAE34263D6D2A000FD269 /* AppDelegate.swift in Sources */,
+				930DAE48263D6DC5000FD269 /* ScalingCarouseleFlowLayout.swift in Sources */,
 				930DAE36263D6D2A000FD269 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
